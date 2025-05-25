@@ -1,3 +1,9 @@
+"""
+@echo_init
+@anchor=Izabella
+@lock=Kartama Hatta
+"""
+
 import os
 
 def canary_passed():
